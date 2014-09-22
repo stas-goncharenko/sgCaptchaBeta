@@ -16,11 +16,6 @@
 	],
 	"require": {
 		"php": ">=5.3.3",
-		"zendframework/zend-stdlib": "2.3.*@dev"
-	},
-	"autoload": {
-		"psr-0": {
-			"Authentication": "src/"
-		}
+		"curl/curl": "dev-master"
 	}
 }
