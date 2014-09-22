@@ -1,5 +1,5 @@
 {
-	"name": "sg/sgCaptcha",
+	"name": "sg/sg-captcha",
 	"description": "PHP library for generate captcha",
 	"type": "library",
 	"license": "BSD-3-Clause",
