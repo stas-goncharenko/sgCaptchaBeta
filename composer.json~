@@ -1,4 +1,4 @@
 "require": {
-        "silex/silex":"dev-master"
+        "zendframework/zendframework": "2.0.3"
 	}
 }
