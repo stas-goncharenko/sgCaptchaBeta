@@ -1,5 +1,25 @@
 {
-"require": {
-"silex/silex":"dev-master"
-}
+	"name": "sg/sgCaptcha",
+	"description": "PHP library for generate captcha",
+	"type": "library",
+	"license": "BSD-3-Clause",
+	"keywords": [
+		"captcha"
+	],
+	"homepage": "https://github.com/stas-goncharenko/sgCaptcha",
+	"authors": [
+		{
+			"name": "Stas Goncharenko",
+			"email": "goncharenko.biz@gmail.com",
+			"homepage": "http://goncharenko.biz"
+		}
+	],
+	"require": {
+		"php": ">=5.3.3"
+	},
+	"autoload": {
+		"psr-0": {
+			"Authentication": "src/"
+		}
+	}
 }
