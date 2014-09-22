@@ -1,5 +1,5 @@
 {
 "require": {
-"zendframework/zendframework": "2.3.*@dev"
+"silex/silex":"dev-master"
 }
 }
