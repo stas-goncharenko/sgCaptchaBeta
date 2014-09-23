@@ -1,7 +1,7 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: stas
- * Date: 23.09.14
- * Time: 12:53
- */ 
+
+class GeneratorTest extends \PHPUnit_Framework_TestCase {
+    public function testGetHmltCaptcha(){
+        $this->assertTrue(true);
+    }
+}
