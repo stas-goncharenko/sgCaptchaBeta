@@ -16,7 +16,6 @@
 	],
 	"require": {
 		"php": ">=5.3.3",
-		"curl/curl": "dev-master",
-        "phpunit/phpunit": "4.*"
+        	"phpunit/phpunit": "4.*"
 	}
 }
